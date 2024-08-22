@@ -511,9 +511,8 @@ nav ul li a.active, nav ul li a:hover {
 .column {
   position: relative;
   width: 100%;
-  padding-right: 15px;
-  padding-left: 15px;
-  flex: 0 0 100%;
+  padding-right: 40px;
+  padding-left: 40px;
   max-width: 100%;
 }
 
